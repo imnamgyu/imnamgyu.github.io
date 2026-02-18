@@ -15,7 +15,7 @@ timezone:
 # ↓ --------------------------
 
 title: 타고난 창업가가 아닌 사람들을 위한 무기
-tagline: 아이디어가 아닌 페인포인트
+tagline: 페인포인트
 description: 평범한 창업가의 오답노트
 url: "https://imnamgyu.github.io"
 
@@ -52,7 +52,7 @@ analytics:
   google:
     id: G-R8J6WZGZRM
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: imnamgyu
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -66,7 +66,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter
 
 # Prefer color scheme setting.
 #
